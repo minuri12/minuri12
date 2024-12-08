@@ -1,5 +1,5 @@
 # 🐱‍👤 About Me:
-Hi there!<br>I'm Minuri, a passionate Software Engineering Undergraduate with a knack for ✨ creativity and 🧩 problem-solving.<br><br>🌱 Currently Learning:🚀 The MERN stack (MongoDB, Express.js, React.js, Node.js) to take my web development skills to the next level.<br><br>💡 Ask Me About:🎓 My journey as a Software Engineering undergraduate.<br>🏆 My experiences in designathons and hackathons.<br>🎨 My passion for crafting innovative solutions in graphic design and UI/UX design.<br><br>Let’s connect and create something amazing! 💻✨
+Hi there!<br>I'm Minuri, a passionate Software Engineering Undergraduate with a knack for ✨ creativity and 🧩 problem-solving.<br><br>🌱 Currently Learning:<br> The MERN stack (MongoDB, Express.js, React.js, Node.js) to take my web development skills to the next level.<br><br>💡 Ask Me About:<br>🎓 My journey as a Software Engineering undergraduate.<br>🏆 My experiences in designathons and hackathons.<br>🎨 My passion for crafting innovative solutions in graphic design and UI/UX design.<br><br>Let’s connect and create something amazing! 💻✨
 
 
 ## 🌐 Socials:
